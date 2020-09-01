@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="august2020-dev-http-servlet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/august2020_dev_http_servlet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="august2020-dev-http-servlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="august2020-dev-http-servlet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
